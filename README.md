@@ -6,103 +6,31 @@ Trabajos del curso Diseno de Interfaces de Programacion Avanzado.
 
 Estudiante de Diseno y Desarrollo de Software en Tecsup.
 
-## Contenido# Guia del proyecto Laboratorio 03
+## Contenido
 
-Esta guia explica el trabajo realizado en el Laboratorio 03 sobre trabajo colaborativo con Git y GitHub. Esta informacion esta pensada para un compañero que nunca ha visto el proyecto.
-
-## Objetivo del proyecto
-
-El objetivo es aprender a trabajar con un repositorio compartido, crear cambios, registrar los cambios con commits y trabajar con ramas.
-
-### Herramientas utilizadas
-
-- Git para controlar las versiones del proyecto.
-- GitHub para almacenar el repositorio remoto.
-- Visual Studio Code para editar los archivos.
-
-## Instalacion y uso
-
-Para trabajar con el proyecto primero se debe tener instalado Git y Visual Studio Code. Puedes comprobar que Git esta instalado ejecutando `git --version`.
-
-Los pasos para obtener y utilizar el proyecto son:
-
-1. Copiar la direccion del repositorio desde GitHub.
-2. Abrir PowerShell o una terminal.
-3. Ejecutar el comando `git clone` con la direccion del repositorio.
-4. Entrar a la carpeta del proyecto con `cd`.
-5. Abrir el proyecto en Visual Studio Code.
-6. Realizar los cambios necesarios y guardarlos.
-
-## Avance del proyecto
-
-### Tareas realizadas
-
-- [x] Crear el repositorio del proyecto.
-- [x] Crear y utilizar ramas.
-- [x] Realizar commits.
-- [ ] Mejorar la documentacion del proyecto.
-
-## Comandos principales
-
-Estos son algunos comandos utilizados durante el trabajo:
-
-```bash
-git clone URL_DEL_REPOSITORIO
-git status
-git add .
-git commit -m "Actualiza el proyecto"
-git push origin main
-```
-
-## Archivos y comandos
-
-| Elemento | Que hace | Ejemplo |
-|----------|----------|---------|
-| README.md | Contiene la informacion principal | Documentacion |
-| git add | Prepara los cambios | git add . |
-| git commit | Guarda los cambios | git commit -m "Actualiza" |
-| git push | Sube los cambios a GitHub | git push origin main |
-
-## Enlace externo
-
-Puedes consultar la documentacion oficial de Git en [Git](https://git-scm.com/).
-
-## Captura del trabajo
-
-![Captura del trabajo](../img/captura.png)
-
-> Documentar el proyecto permite que otras personas puedan entenderlo y utilizarlo con mayor facilidad.
-
-### Trabajos del modulo 1# Mi portafolio
+### Trabajos del modulo 1
 
 ## Herramientas que uso
 
 - **Git** para el control de versiones
-
 - **GitHub** para el repositorio remoto
-
 - *Visual Studio Code* como editor
 
 ## Pasos para clonar este proyecto
 
 1. Copiar la direccion desde el boton Code
-
-2. Ejecutar git clone con esa direccion
-
-3. Entrar a la carpeta con cd
+2. Ejecutar `git clone` con esa direccion
+3. Entrar a la carpeta con `cd`
 
 ## Mi avance del modulo
 
 - [x] Laboratorio 01: Git basico
-
 - [x] Laboratorio 03: Trabajo colaborativo
-
 - [ ] Laboratorio 04: Markdown
 
 ## Enlaces utiles
 
 - [Guia oficial de Markdown](https://www.markdownguide.org/)
-
 - [Mi perfil de GitHub](https://github.com/sempai3-3)
 
 ## Captura de mi trabajo
@@ -117,11 +45,3 @@ Para ver el estado del proyecto uso `git status`.
 git add .
 git commit -m "Actualiza el README"
 git push origin main
-
-| Comando    | Que hace                   |
-|------------|----------------------------|
-| git add    | Prepara los cambios        |
-| git commit | Guarda la version          |
-| git push   | Sube los cambios al remoto |
-
-> Documentar es parte del trabajo, no un extra al final.

@@ -64,7 +64,3 @@ Puedes consultar la documentacion oficial de Git en [Git](https://git-scm.com/).
 ![Captura del trabajo](../img/captura.png)
 
 > Documentar el proyecto permite que otras personas puedan entenderlo y utilizarlo con mayor facilidad.
-
-## Guia del proyecto
-
-- [Guia del proyecto](docs/GUIA.md)
